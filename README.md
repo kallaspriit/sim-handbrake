@@ -1,2 +1,3 @@
-# sim-handbrake
-Teensy based 12/16 bit sim racing handbrake
+# Sim Racing Handbrake
+
+Teensy based sim racing handbrake using 12 bit ADC input and 16 bit output.
